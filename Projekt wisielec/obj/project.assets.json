@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\biala\\Desktop\\Laszyn Projekt\\Wisielec.csproj",
+      "projectUniqueName": "C:\\Users\\biala\\Desktop\\Projekt\\Wisielec.csproj",
       "projectName": "Wisielec",
-      "projectPath": "C:\\Users\\biala\\Desktop\\Laszyn Projekt\\Wisielec.csproj",
+      "projectPath": "C:\\Users\\biala\\Desktop\\Projekt\\Wisielec.csproj",
       "packagesPath": "C:\\Users\\biala\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\biala\\Desktop\\Laszyn Projekt\\obj\\",
+      "outputPath": "C:\\Users\\biala\\Desktop\\Projekt\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
